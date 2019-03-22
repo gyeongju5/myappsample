@@ -114,5 +114,5 @@ export const name = 'Jeff';
 export const nums = [1, 2, 3];
 export default personalbar;
 
-// file 2 (file2.js)
+// file 2 (file2.js) //
 import { name, nums } from '../file1';
